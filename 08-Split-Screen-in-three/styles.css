@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+}
+#wrapper {
+	display: flex;
+}
+#sectionA {
+	background: blue;
+	width: 33.3333%;
+	height: 300px;
+}
+#sectionB {
+	background: red;
+	width: 33.3334%;
+	height: 300px;
+}
+#sectionC {
+	background: green;
+	width: 33.3333%;
+	height: 300px;
+}
